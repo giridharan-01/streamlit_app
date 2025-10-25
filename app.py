@@ -17,7 +17,7 @@ def show_info():
 st.set_page_config(page_title="Simple Streamlit App", page_icon="🚀")
 
 st.title("🚀 Simple Streamlit App with Buttons and Functions")
-
+st.title("Updated in the browser")
 st.write("Click a button below to perform an action:")
 
 # --- Input fields for numeric functions ---
